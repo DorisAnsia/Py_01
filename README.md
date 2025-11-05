@@ -23,11 +23,7 @@ Proyecto de análisis predictivo para identificar patrones de comportamiento que
 4. **Validación** con datos de los últimos 3 meses
 5. **Implementación** de dashboard en Tableau
 
-## 📊 Entregables
-- Modelo predictivo en producción
-- Dashboard interactivo para monitoreo continuo
-- Documentación técnica y guía de uso
-- Presentación ejecutiva con insights clave
+
 
 ## 👥 Stakeholders
 - **Sponsor**: Director de Marketing
